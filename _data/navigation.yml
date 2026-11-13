@@ -5,7 +5,7 @@ main:
   - title: "About"
     url: /
   - title: "Resume"
-    url: /resume/
+    url: "/files/Yu%20Yin%2C%20Cheong-Resume.pdf"
 
   # Enable after we create the Research page.
   # - title: "Research"
