@@ -4,6 +4,8 @@
 main:
   - title: "About"
     url: /
+  - title: "Resume"
+    url: /resume/
 
   # Enable after we create the Research page.
   # - title: "Research"
