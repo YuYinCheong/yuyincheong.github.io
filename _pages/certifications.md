@@ -63,7 +63,7 @@ author_profile: true
 <div class="credential-grid">
   <article class="credential-card">
     <div class="credential-art">
-      <img src="{{ '/images/certifications/ai-work-life.png' | relative_url }}" alt="AI for Work &amp; Life artwork" loading="lazy">
+      <img src="{{ '/images/ai-work-life.png' | relative_url }}" alt="AI for Work &amp; Life artwork" loading="lazy">
     </div>
     <h3>AI for Work &amp; Life</h3>
     <p>UNF Professional and Lifelong Learning</p>
@@ -73,7 +73,7 @@ author_profile: true
   </article>
   <article class="credential-card">
     <div class="credential-art">
-      <img src="{{ '/images/certifications/ai-prompt-engineering.png' | relative_url }}" alt="AI Prompt Engineering Skills artwork" loading="lazy">
+      <img src="{{ '/images/ai-prompt-engineering.png' | relative_url }}" alt="AI Prompt Engineering Skills artwork" loading="lazy">
     </div>
     <h3>AI Prompt Engineering Skills</h3>
     <p>LinkedIn Learning · UNF Digital Badging</p>
@@ -83,7 +83,7 @@ author_profile: true
   </article>
   <article class="credential-card">
     <div class="credential-art">
-      <img src="{{ '/images/certifications/introduction-to-ai.png' | relative_url }}" alt="Introduction to AI artwork" loading="lazy">
+      <img src="{{ '/images/introduction-to-ai.png' | relative_url }}" alt="Introduction to AI artwork" loading="lazy">
     </div>
     <h3>Introduction to AI</h3>
     <p>LinkedIn Learning · UNF Digital Badging</p>
@@ -93,7 +93,7 @@ author_profile: true
   </article>
   <article class="credential-card">
     <div class="credential-art">
-      <img src="{{ '/images/certifications/excel-level-1.jpeg' | relative_url }}" alt="Microsoft Excel Level 1 artwork" loading="lazy">
+      <img src="{{ '/images/excel-level-1.jpeg' | relative_url }}" alt="Microsoft Excel Level 1 artwork" loading="lazy">
     </div>
     <h3>Microsoft Excel Level 1</h3>
     <p>LinkedIn Learning · UNF Digital Badging</p>
@@ -107,7 +107,7 @@ author_profile: true
 <div class="credential-grid">
   <article class="credential-card">
     <div class="credential-art">
-      <img src="{{ '/images/certifications/javascript.png' | relative_url }}" alt="IT Specialist — JavaScript artwork" loading="lazy">
+      <img src="{{ '/images/javascript.png' | relative_url }}" alt="IT Specialist — JavaScript artwork" loading="lazy">
     </div>
     <h3>IT Specialist — JavaScript</h3>
     <p>Certiport</p>
@@ -117,7 +117,7 @@ author_profile: true
   </article>
   <article class="credential-card">
     <div class="credential-art">
-      <img src="{{ '/images/certifications/python.png' | relative_url }}" alt="IT Specialist — Python artwork" loading="lazy">
+      <img src="{{ '/images/python.png' | relative_url }}" alt="IT Specialist — Python artwork" loading="lazy">
     </div>
     <h3>IT Specialist — Python</h3>
     <p>Certiport</p>
@@ -127,7 +127,7 @@ author_profile: true
   </article>
   <article class="credential-card">
     <div class="credential-art">
-      <img src="{{ '/images/certifications/html-css.jpeg' | relative_url }}" alt="IT Specialist — HTML &amp; CSS artwork" loading="lazy">
+      <img src="{{ '/images/html-css.jpeg' | relative_url }}" alt="IT Specialist — HTML &amp; CSS artwork" loading="lazy">
     </div>
     <h3>IT Specialist — HTML &amp; CSS</h3>
     <p>Certiport</p>
@@ -141,7 +141,7 @@ author_profile: true
 <div class="credential-grid">
   <article class="credential-card">
     <div class="credential-art">
-      <img src="{{ '/images/certifications/covey-leaderu.png' | relative_url }}" alt="Covey LeaderU artwork" loading="lazy">
+      <img src="{{ '/images/covey-leaderu.png' | relative_url }}" alt="Covey LeaderU artwork" loading="lazy">
     </div>
     <h3>Covey LeaderU</h3>
     <p>Franklin Covey Co.</p>
