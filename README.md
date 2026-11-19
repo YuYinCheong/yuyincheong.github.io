@@ -1,4 +1,4 @@
-# Yu Yin Cheong — Personal Website
+# Yu Yin Cheong Personal Website
 
 My personal website featuring my academic background, research, selected projects, and leadership experience.
 
